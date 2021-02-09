@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\georgiana.bobric\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\georgiana.bobric\\.nuget\\packages"
+    ]
+  }
+}
